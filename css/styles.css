@@ -104,13 +104,14 @@ td {
   color: white;
 }
 
-/*.taunt {
+.taunt {
   margin-top: 15px;
   color: red;
   background-color: rgba(104, 134, 161, 0.89);
   text-shadow: 1px 1px 0px black;
 }
-.teamrebel td {
+
+/*.teamrebel td {
   padding-top: 30px !important;
 }
 
