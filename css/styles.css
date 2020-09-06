@@ -62,13 +62,14 @@ h2 {
   color: white;
 }
 
-/*table {
+table {
   border: solid rgba(66, 85, 102, 0.75);
   background-color: rgba(66, 85, 102, 0.75);
   width: 1300px;
   margin: 5px auto 15px auto;
 }
-.team td {
+
+/*.team td {
   vertical-align: top;
   padding-top: 10px;
 }
