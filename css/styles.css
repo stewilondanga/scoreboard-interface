@@ -91,10 +91,11 @@ table {
   width: 450px;
 }
 
-/*.player {
+.player {
   border-bottom: solid 2px white;
 }
-td {
+
+/*td {
   color: white;
 }
 .gametype {
