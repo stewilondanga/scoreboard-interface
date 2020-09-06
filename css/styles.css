@@ -99,11 +99,12 @@ td {
   color: white;
 }
 
-/*.gametype {
+.gametype {
   margin-top: 5px;
   color: white;
 }
-.taunt {
+
+/*.taunt {
   margin-top: 15px;
   color: red;
   background-color: rgba(104, 134, 161, 0.89);
