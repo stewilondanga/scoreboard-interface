@@ -9,6 +9,21 @@ body {
   background-color: black;
 }
 
+#background {
+  background-image: url("https://res.cloudinary.com/dxiqgi3ee/image/upload/v1532803954/war-2721538_1920.jpg");
+  position: absolute;
+  height: 130%;
+  width: 130%;
+  top: -15%;
+  left: -15%;
+  background-size: cover;
+  background-position: center;
+  z-index: -1;
+  animation-name: backgroundpan;
+  animation-duration: 110s;
+  animation-iteration-count: infinite;
+}
+
 /*
 
 .my_social {
@@ -36,20 +51,6 @@ body {
     100% {
       left: -30%;
   }
-}
-#background {
-  background-image: url("https://res.cloudinary.com/dxiqgi3ee/image/upload/v1532803954/war-2721538_1920.jpg");
-  position: absolute;
-  height: 130%;
-  width: 130%;
-  top: -15%;
-  left: -15%;
-  background-size: cover;
-  background-position:center;
-  z-index: -1;
-     animation-name: backgroundpan;
-    animation-duration: 110s;
-  animation-iteration-count: infinite;
 }
 h1,
 h2 {
