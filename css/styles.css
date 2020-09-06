@@ -111,11 +111,11 @@ td {
   text-shadow: 1px 1px 0px black;
 }
 
-/*.teamrebel td {
+.teamrebel td {
   padding-top: 30px !important;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
