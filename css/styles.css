@@ -69,11 +69,12 @@ table {
   margin: 5px auto 15px auto;
 }
 
-/*.team td {
+.team td {
   vertical-align: top;
   padding-top: 10px;
 }
-.win {
+
+/*.win {
   vertical-align: middle !important;
   padding-top: 0px !important;
   border: solid rgba(252, 15, 3, 0.75);
